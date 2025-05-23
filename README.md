@@ -34,11 +34,8 @@
 
 
 ## 📁 Projects & Labs
-- 🔧 [Packet Tracer Labs](https://github.com/yourusername/networking-labs)
-- 🔍 [Nmap Scan Reports & Scripting](https://github.com/yourusername/nmap-scripts)
-- 📓 [TryHackMe Writeups](https://github.com/yourusername/tryhackme-writeups)
-- 📘 [Wireshark Filters & Traffic Analysis](https://github.com/yourusername/wireshark-notes)
-- 📄 [Resume & CV Repository](https://github.com/yourusername/resume)
+- 🔧 [Packet Tracer Labs](https://github.com/AliJimba/Packet-Tracer-Labs)
+
 
 
 
