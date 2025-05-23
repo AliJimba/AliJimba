@@ -45,7 +45,7 @@
 ## 📎 Quick Links
 
 - 🔗 **LinkedIn:** [linkedin.com/in/muhamed-ali-jinnah-819313221](https://www.linkedin.com/in/muhamed-ali-jinnah-819313221)
-- 📄 **My Resume (PDF):** [View here](https://github.com/yourusername/resume/blob/main/yourname_resume.pdf)
+- 📄 **My Resume (PDF):** [View here](https://github.com/AliJimba/AliJimba/blob/main/Muhamed%20Ali%20Jinnah%20-%20Updated%20CV.pdf)
 - 🛡️ **TryHackMe Profile:** [tryhackme.com/p/AliJinnah](https://tryhackme.com/p/AliJinnah)
 - 🗂️ **GitHub Portfolio:** [github.com/AliJimba](https://github.com/AliJimba)
 
