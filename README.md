@@ -4,9 +4,9 @@
 
 
 
-## 💼 My focus's :
-- Cybersecurity (Blue Team, SOC operations, SIEM tools)
-- Network Security (VLANs, firewalls, subnets, Wireshark, overall configurations)
+## My focus's :
+- Cybersecurity studies
+- Network Security and management studies
 - Hands-on Labs (TryHackMe, Packet Tracer)
 - Linux for security and scripting (Bash, Python)
 - Building my portfolio & practical skills
