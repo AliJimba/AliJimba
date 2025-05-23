@@ -16,18 +16,20 @@
 ## 📜 Certifications & Badges
 - ✅ **Cisco Networking Basics** (Skills for All) – *[View](https://skillsforall.com)*
 - ✅ **IBM Cybersecurity Analyst – Introduction** – *[IBM SkillsBuild](https://skillsbuild.org)*
-- ✅ **TryHackMe Learner Badge** – *[View Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/AliJinnah.png" alt="Your Image Badge" />)*  
+- ✅ **TryHackMe Learner Badge** –
+
+   *<img src="https://tryhackme-badges.s3.amazonaws.com/AliJinnah.png" alt="Your Image Badge" />*  
 
 
 
 ## 🛠️ Tools & Technologies
-+--------------------------------------------------------------------------------------+
+
 | Networking         | Cybersecurity         | Scripting         | Labs & Simulators   |
 |--------------------|-----------------------|-------------------|---------------------|
 | Cisco Packet Tracer| Nmap, Wireshark       | Bash, Python      | TryHackMe, GNS3     |
 | Subnetting/VLANs   | Burp Suite, Nessus    | Shell scripting   | Cisco Labs, NetAcad |
 | DNS, DHCP, Routing | SIEM (learning Splunk)| Regex, CLI tools  | VirtualBox, Kali    |
-+--------------------------------------------------------------------------------------+
+
 
 
 
