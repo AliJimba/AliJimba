@@ -16,7 +16,7 @@
 ## 📜 Certifications & Badges
 - ✅ **Cisco Networking Basics** (Skills for All) – *[View](https://skillsforall.com)*
 - ✅ **IBM Cybersecurity Analyst – Introduction** – *[IBM SkillsBuild](https://skillsbuild.org)*
-- ✅ **TryHackMe Learner Badge** – *[View Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3615545)*  
+- ✅ **TryHackMe Learner Badge** – *[View Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/AliJinnah.png" alt="Your Image Badge" />)*  
 
 
 
