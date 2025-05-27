@@ -15,10 +15,17 @@
 
 ## 📜 Certifications & Badges
 - ✅ **Cisco Networking Basics** (Skills for All) – *[View](https://skillsforall.com)*
-- ✅ **IBM Cybersecurity Analyst – Introduction** – *[IBM SkillsBuild](https://skillsbuild.org)*
+- ✅ **Certification Badges** –
+
+  <a href="https://www.credly.com/badges/50b96632-6cbb-40b7-ac0e-b83f49ff7f94">
+  <img src="https://images.credly.com/size/680x680/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Credly Badge" width="120"/>
+</a>
+
 - ✅ **TryHackMe Learner Badge** –
 
-   *<img src="https://tryhackme-badges.s3.amazonaws.com/AliJinnah.png" alt="Your Image Badge" />*  
+   *<img src="https://tryhackme-badges.s3.amazonaws.com/AliJinnah.png" alt="Your Image Badge" />*
+ 
+
 
 
 
