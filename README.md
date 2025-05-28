@@ -17,8 +17,10 @@
 - ✅ **Cisco Networking Basics** (Skills for All) – *[View](https://skillsforall.com)*
 - ✅ **Certification Badges** –
 
-  <a href="https://www.credly.com/badges/50b96632-6cbb-40b7-ac0e-b83f49ff7f94">
-  <img src="https://images.credly.com/size/680x680/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Credly Badge" width="120"/>
+  <a href="https://www.credly.com/users/muhamed-jinnah">
+  <img src="https://images.credly.com/size/680x680/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Credly Badge" width="120"/>  
+    &nbsp;
+  <img src="https://images.credly.com/size/680x680/images/e3a07258-a514-47ef-9810-8cf41274a0ed/image.png" alt="Credly Badge" width="120"/>
 </a>
 
 - ✅ **TryHackMe Learner Badge** –
