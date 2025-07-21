@@ -21,6 +21,11 @@
   <img src="https://images.credly.com/size/680x680/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Credly Badge" width="120"/>  
     &nbsp;
   <img src="https://images.credly.com/size/680x680/images/e3a07258-a514-47ef-9810-8cf41274a0ed/image.png" alt="Credly Badge" width="120"/>
+    &nbsp;
+  <img src="https://images.credly.com/size/680x680/images/6e3eb1aa-7ed9-40f5-b16e-bab6bc566be4/BadgeEmblem_QuantumEnigmas.png" alt="Credly Badge" width="120"/>
+
+
+  
 </a>
 
 - ✅ **TryHackMe Learner Badge** –
