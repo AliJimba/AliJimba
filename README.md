@@ -36,14 +36,6 @@
 
 
 
-## 🛠️ Tools & Technologies
-
-| Networking         | Cybersecurity         | Scripting         | Labs & Simulators   |
-|--------------------|-----------------------|-------------------|---------------------|
-| Cisco Packet Tracer| Nmap, Wireshark       | Bash, Python      | TryHackMe, GNS3     |
-| Subnetting/VLANs   | Burp Suite, Nessus    | Shell scripting   | Cisco Labs, NetAcad |
-| DNS, DHCP, Routing | SIEM (learning Splunk)| Regex, CLI tools  | VirtualBox, Kali    |
-
 
 
 
